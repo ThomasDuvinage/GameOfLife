@@ -1,0 +1,13 @@
+<map id="player.PlayerModel.updatePositionX" name="player.PlayerModel.updatePositionX">
+<area shape="rect" id="node1" title="This method is used to update the X player position." alt="" coords="5,144,180,185"/>
+<area shape="rect" id="node2" href="$classplayer_1_1_player_model.html#aed36935fd4c1cd43c2f12da019f43eb8" title="This method is used to check if the level is complete or not." alt="" coords="265,5,435,47"/>
+<area shape="rect" id="node3" href="$classgame_1_1_grid.html#a3017eed0a82daf8a3100d1f9a02b875f" title="This method is used to know if the the cell at player position is a planet or not." alt="" coords="283,71,417,98"/>
+<area shape="rect" id="node5" href="$classgame_1_1_grid.html#aa6d424dec2eb52cc2ecb384318c50cf0" title=" " alt="" coords="268,122,432,149"/>
+<area shape="rect" id="node9" href="$classplayer_1_1_player_model.html#a56f360dcb99337710921b43af35f8825" title="Update the player detail content in the JSON file." alt="" coords="263,173,437,215"/>
+<area shape="rect" id="node10" href="$classgui_1_1_window.html#a35cab95882dca7d799bba83d4a0691a3" title="This method is used to update the player position in the view when the player move." alt="" coords="228,239,472,266"/>
+<area shape="rect" id="node11" href="$classplayer_1_1_player_model.html#aa99cca5474251b884381778e4d87a586" title="This method is used to update the score label in the view." alt="" coords="263,291,437,332"/>
+<area shape="rect" id="node4" href="$classgame_1_1_cell.html#ac5f1eaab1ae7a047e9d7d5507caa4704" title="get the cell state" alt="" coords="520,46,691,73"/>
+<area shape="rect" id="node6" href="$classgame_1_1_cell.html#aa842ad577d902e537e4ffe49165e4624" title=" " alt="" coords="538,97,673,123"/>
+<area shape="rect" id="node7" href="$classgame_1_1_cell.html#a474de6802ebd74f28c122ed86d58beb3" title="Set cell state to default state." alt="" coords="521,147,689,174"/>
+<area shape="rect" id="node8" href="$classgame_1_1_cell.html#a29b214997f26c6a8a7b716d7caea7501" title="set cell state to player state" alt="" coords="524,198,687,225"/>
+</map>

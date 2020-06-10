@@ -1,0 +1,7 @@
+<map id="gui.Window.Window" name="gui.Window.Window">
+<area shape="rect" id="node1" title="Window constructor." alt="" coords="5,56,144,83"/>
+<area shape="rect" id="node2" href="$classgui_1_1_window.html#a8d3d2ac3293e2896c12e38301791c39c" title="This loop initialize all buttons and actions linked to them." alt="" coords="205,5,358,32"/>
+<area shape="rect" id="node3" href="$classgame_1_1_grid.html#a4a2423a54c0fd3e4339df7043482d781" title="fill the grid with Cells" alt="" coords="195,56,368,83"/>
+<area shape="rect" id="node5" href="$classgui_1_1_window.html#a0841619f5e05cf4ba013c7aac264041e" title="This method is used to display player informations." alt="" coords="192,107,371,133"/>
+<area shape="rect" id="node4" href="$classgame_1_1_cell.html#a8269185d7c775ec7b17fdd60ac48c40b" title="set state to originState" alt="" coords="419,56,553,83"/>
+</map>

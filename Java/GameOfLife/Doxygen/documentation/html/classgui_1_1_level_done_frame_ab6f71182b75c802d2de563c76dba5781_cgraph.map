@@ -1,0 +1,4 @@
+<map id="gui.LevelDoneFrame.setPlayerCreationPanel" name="gui.LevelDoneFrame.setPlayerCreationPanel">
+<area shape="rect" id="node1" title="This method permits to add all the player informations to the JFrame." alt="" coords="5,5,207,47"/>
+<area shape="rect" id="node2" href="$classgui_1_1_level_done_frame.html#ac451d8818d944a8de0cab444c95c309b" title="This method is used to initialize buttons." alt="" coords="255,13,463,39"/>
+</map>

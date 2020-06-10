@@ -1,0 +1,12 @@
+<map id="player.PlayerModel" name="player.PlayerModel">
+<area shape="rect" id="node1" title="This Class represents the player behaviour." alt="" coords="495,109,627,136"/>
+<area shape="rect" id="node2" href="$classgui_1_1_window.html" title="This Class represents the Window which pop up when you run the project" alt="" coords="355,496,445,523"/>
+<area shape="rect" id="node6" href="$classplayer_1_1_player_controller.html" title=" " alt="" coords="133,199,286,225"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,399,72,426"/>
+<area shape="rect" id="node4" href="$classgui_1_1_panel.html" title="This Class represents the Grid Panel displayed on the screen." alt="" coords="314,288,390,315"/>
+<area shape="rect" id="node8" href="$classgui_controller_1_1_timer_main_window_controller.html" title="This Class represents the Timer which is used to update the grid content at a given rate." alt="" coords="97,392,303,433"/>
+<area shape="rect" id="node5" title=" " alt="" coords="418,199,481,225"/>
+<area shape="rect" id="node7" href="$classgame_1_1_grid.html" title="This Class represents the grid which is displayed in the Panel afterward." alt="" coords="311,199,393,225"/>
+<area shape="rect" id="node9" title=" " alt="" coords="173,288,227,315"/>
+<area shape="rect" id="node10" href="$classgame_1_1_point2_d.html" title="This Class is used to represent the position of cell in the grid." alt="" coords="509,5,614,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="player.PlayerCreationFrame.PlayerCreationFrame" name="player.PlayerCreationFrame.PlayerCreationFrame">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,5,192,47"/>
+<area shape="rect" id="node2" href="$classplayer_1_1_player_creation_frame.html#a9ce4565345610d093f917f872a28dd08" title="This methods is used to set the content of the panel. This content is used to let the player sign up." alt="" coords="240,5,445,47"/>
+<area shape="rect" id="node3" href="$classplayer_1_1_player_creation_frame.html#aa374e0bc838834d887a2ec3949a9f670" title="This method is used to initialize all buttons." alt="" coords="493,5,697,47"/>
+</map>

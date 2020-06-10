@@ -1,0 +1,8 @@
+<map id="guiController.TimerMainWindowController.MyTask.run" name="guiController.TimerMainWindowController.MyTask.run">
+<area shape="rect" id="node1" title=" " alt="" coords="5,49,212,90"/>
+<area shape="rect" id="node2" href="$classgame_1_1_grid.html#ab32fbb2e392049d6ee99b1cd144e516e" title="Count the neighbor around every cells." alt="" coords="260,56,385,83"/>
+<area shape="rect" id="node3" href="$classgame_1_1_grid.html#a0b741861ba689806b18bf85f3d76e8c7" title="Count the number of alive neighbor around a given cell." alt="" coords="433,5,603,32"/>
+<area shape="rect" id="node5" href="$classgame_1_1_cell.html#a9a4c5433e369a9a700fd31c23e2fc494" title="set newState to originalNewState" alt="" coords="437,56,599,83"/>
+<area shape="rect" id="node6" href="$classgame_1_1_cell.html#aab58177bd658e0e627adf03e8fd09f01" title="update state to newState" alt="" coords="441,107,595,133"/>
+<area shape="rect" id="node4" href="$classgame_1_1_grid.html#a8a1ada2e427e6342bed048d5c6419f2d" title=" " alt="" coords="651,5,821,32"/>
+</map>

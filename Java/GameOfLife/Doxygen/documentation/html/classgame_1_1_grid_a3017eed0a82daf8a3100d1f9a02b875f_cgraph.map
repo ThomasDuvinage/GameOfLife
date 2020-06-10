@@ -1,0 +1,4 @@
+<map id="game.Grid.isPlanet" name="game.Grid.isPlanet">
+<area shape="rect" id="node1" title="This method is used to know if the the cell at player position is a planet or not." alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$classgame_1_1_cell.html#ac5f1eaab1ae7a047e9d7d5507caa4704" title="get the cell state" alt="" coords="187,5,357,32"/>
+</map>

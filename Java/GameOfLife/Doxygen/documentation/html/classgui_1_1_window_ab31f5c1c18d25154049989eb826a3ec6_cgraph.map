@@ -1,0 +1,8 @@
+<map id="gui.Window.setPlayerModel" name="gui.Window.setPlayerModel">
+<area shape="rect" id="node1" title="This method is used to instantiate the playerModel." alt="" coords="5,67,188,94"/>
+<area shape="rect" id="node2" href="$classgui_1_1_window.html#aafcf78b3c2945fc6362e4fb20354d2cb" title="This method is used to randomly add Planet(s) to the grid." alt="" coords="236,42,424,69"/>
+<area shape="rect" id="node6" href="$classplayer_1_1_player_model.html#ac930a42fb4832f7debbf65c74eaabdf4" title="set view" alt="" coords="239,93,421,119"/>
+<area shape="rect" id="node3" href="$classgame_1_1_grid.html#a72feaab2e134c8b0c1057a5f0ace9448" title="This method is used to addPlanet to the grid depending on the level of the player." alt="" coords="473,5,656,47"/>
+<area shape="rect" id="node5" href="$classplayer_1_1_player_model.html#a043122bb19863e95d65cd4ea8e6c6015" title="get the player level" alt="" coords="472,71,657,98"/>
+<area shape="rect" id="node4" href="$classgame_1_1_cell.html#a0d703b338d1d8eb33e9afcffe4927848" title="set cell state to planet state" alt="" coords="705,13,876,39"/>
+</map>

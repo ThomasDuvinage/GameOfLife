@@ -1,0 +1,4 @@
+<map id="gui.Window" name="gui.Window">
+<area shape="rect" id="node1" title="This Class represents the Window which pop up when you run the project" alt="" coords="5,80,96,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="17,5,84,32"/>
+</map>

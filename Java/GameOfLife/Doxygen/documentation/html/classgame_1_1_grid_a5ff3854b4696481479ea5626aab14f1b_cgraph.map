@@ -1,0 +1,4 @@
+<map id="game.Grid.setGridSize" name="game.Grid.setGridSize">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,160,32"/>
+<area shape="rect" id="node2" href="$classgame_1_1_grid.html#ac81d2e447aac344d72ba3d828a462383" title="Set the number of cells equals to size/cellWidth." alt="" coords="208,5,403,32"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="player.PlayerController.actionPerformed" name="player.PlayerController.actionPerformed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,93,196,135"/>
+<area shape="rect" id="node2" href="$classplayer_1_1_player_model.html#af2ccc0a63032c7e6b5684b8b5c86c3ea" title="This method is used to know if the player already exists in the JSON file." alt="" coords="253,5,424,47"/>
+<area shape="rect" id="node3" href="$classplayer_1_1_player_model.html#acdda75745bf0a748a1cabc7488357632" title=" " alt="" coords="244,71,433,98"/>
+<area shape="rect" id="node4" href="$classplayer_1_1_player_model.html#afda69755dbec3bbf041d24e0e6eda884" title="Insert JSON file the player profile This JSON file enables to store the players and easily travel tro..." alt="" coords="255,123,423,164"/>
+<area shape="rect" id="node5" href="$classgui_1_1_window.html#ab31f5c1c18d25154049989eb826a3ec6" title="This method is used to instantiate the playerModel." alt="" coords="247,189,430,215"/>
+<area shape="rect" id="node6" href="$classgui_1_1_window.html#aafcf78b3c2945fc6362e4fb20354d2cb" title="This method is used to randomly add Planet(s) to the grid." alt="" coords="481,163,669,190"/>
+<area shape="rect" id="node9" href="$classplayer_1_1_player_model.html#ac930a42fb4832f7debbf65c74eaabdf4" title="set view" alt="" coords="484,214,667,241"/>
+<area shape="rect" id="node7" href="$classgame_1_1_grid.html#a72feaab2e134c8b0c1057a5f0ace9448" title="This method is used to addPlanet to the grid depending on the level of the player." alt="" coords="719,127,901,168"/>
+<area shape="rect" id="node8" href="$classplayer_1_1_player_model.html#a043122bb19863e95d65cd4ea8e6c6015" title="get the player level" alt="" coords="717,193,903,219"/>
+</map>

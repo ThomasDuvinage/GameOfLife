@@ -1,0 +1,5 @@
+<map id="gui.LevelDoneFrame.LevelDoneFrame" name="gui.LevelDoneFrame.LevelDoneFrame">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,5,183,47"/>
+<area shape="rect" id="node2" href="$classgui_1_1_level_done_frame.html#ab6f71182b75c802d2de563c76dba5781" title="This method permits to add all the player informations to the JFrame." alt="" coords="231,5,432,47"/>
+<area shape="rect" id="node3" href="$classgui_1_1_level_done_frame.html#ac451d8818d944a8de0cab444c95c309b" title="This method is used to initialize buttons." alt="" coords="480,13,688,39"/>
+</map>

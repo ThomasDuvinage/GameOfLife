@@ -1,0 +1,6 @@
+<map id="gui.Panel.paintComponent" name="gui.Panel.paintComponent">
+<area shape="rect" id="node1" title="Override paintComponement from JComponent Reset the background color Draw the updated grid." alt="" coords="5,31,180,57"/>
+<area shape="rect" id="node2" href="$classgame_1_1_grid.html#a9a92e5bc70b9a7f886a1864c339ac252" title="For every cells in the grid draw." alt="" coords="228,31,343,57"/>
+<area shape="rect" id="node3" href="$classgame_1_1_cell.html#a18e407511686d9349daa67c04fa88a32" title="Draw the rectangle border and fill the rectangle depending on the cell state." alt="" coords="404,5,517,32"/>
+<area shape="rect" id="node4" href="$classgame_1_1_grid.html#a732df7b99a4a06f26b628a67fa6eee38" title=" " alt="" coords="391,56,531,83"/>
+</map>

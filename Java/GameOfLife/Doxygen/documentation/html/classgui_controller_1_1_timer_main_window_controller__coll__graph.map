@@ -1,0 +1,13 @@
+<map id="guiController.TimerMainWindowController" name="guiController.TimerMainWindowController">
+<area shape="rect" id="node1" title="This Class represents the Timer which is used to update the grid content at a given rate." alt="" coords="588,167,795,209"/>
+<area shape="rect" id="node2" href="$classgui_1_1_panel.html" title="This Class represents the Grid Panel displayed on the screen." alt="" coords="361,220,437,247"/>
+<area shape="rect" id="node7" href="$classgui_controller_1_1_mouse_event_grid_filling.html" title=" " alt="" coords="606,233,777,274"/>
+<area shape="rect" id="node3" title=" " alt="" coords="170,141,233,168"/>
+<area shape="rect" id="node8" href="$classplayer_1_1_player_creation_frame.html" title=" " alt="" coords="600,65,783,92"/>
+<area shape="rect" id="node4" href="$classplayer_1_1_player_controller.html" title=" " alt="" coords="976,116,1129,143"/>
+<area shape="rect" id="node5" title=" " alt="" coords="639,116,744,143"/>
+<area shape="rect" id="node6" href="$classplayer_1_1_player_model.html" title="This Class represents the player behaviour." alt="" coords="333,12,465,39"/>
+<area shape="rect" id="node9" href="$classgame_1_1_grid.html" title="This Class represents the grid which is displayed in the Panel afterward." alt="" coords="160,220,243,247"/>
+<area shape="rect" id="node10" href="$classgame_1_1_cell.html" title="This class represents the cell composing the grid." alt="" coords="5,220,87,247"/>
+<area shape="rect" id="node11" title=" " alt="" coords="371,149,426,176"/>
+</map>

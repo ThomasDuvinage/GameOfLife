@@ -1,0 +1,5 @@
+<map id="game.Grid.draw" name="game.Grid.draw">
+<area shape="rect" id="node1" title="For every cells in the grid draw." alt="" coords="5,31,120,57"/>
+<area shape="rect" id="node2" href="$classgame_1_1_cell.html#a18e407511686d9349daa67c04fa88a32" title="Draw the rectangle border and fill the rectangle depending on the cell state." alt="" coords="181,5,295,32"/>
+<area shape="rect" id="node3" href="$classgame_1_1_grid.html#a732df7b99a4a06f26b628a67fa6eee38" title=" " alt="" coords="168,56,308,83"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="gui.LevelDoneFrame" name="gui.LevelDoneFrame">
+<area shape="rect" id="node1" title="This method is a JFrame used when the player finish a level." alt="" coords="5,80,148,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="43,5,110,32"/>
+</map>

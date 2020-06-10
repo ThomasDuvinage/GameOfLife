@@ -1,0 +1,4 @@
+<map id="gui.Panel" name="gui.Panel">
+<area shape="rect" id="node1" title="This Class represents the Grid Panel displayed on the screen." alt="" coords="5,80,81,107"/>
+<area shape="rect" id="node2" title=" " alt="" coords="12,5,75,32"/>
+</map>

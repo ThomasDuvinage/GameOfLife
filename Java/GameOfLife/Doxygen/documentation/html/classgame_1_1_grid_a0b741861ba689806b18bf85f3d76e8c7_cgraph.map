@@ -1,0 +1,5 @@
+<map id="game.Grid.getNeighborAt" name="game.Grid.getNeighborAt">
+<area shape="rect" id="node1" title="Count the number of alive neighbor around a given cell." alt="" coords="5,5,175,32"/>
+<area shape="rect" id="node2" href="$classgame_1_1_grid.html#a8a1ada2e427e6342bed048d5c6419f2d" title=" " alt="" coords="223,5,393,32"/>
+<area shape="rect" id="node3" href="$classgame_1_1_cell.html#aa842ad577d902e537e4ffe49165e4624" title=" " alt="" coords="441,5,576,32"/>
+</map>

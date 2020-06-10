@@ -1,0 +1,15 @@
+<map id="guiController.BackMenuButtonController" name="guiController.BackMenuButtonController">
+<area shape="rect" id="node1" title="This Class is used to back to the strating page." alt="" coords="64,676,263,717"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node9" href="$classplayer_1_1_player_controller.html" title=" " alt="" coords="80,81,233,108"/>
+<area shape="rect" id="node3" href="$classgui_1_1_window.html" title="This Class represents the Window which pop up when you run the project" alt="" coords="287,393,378,420"/>
+<area shape="rect" id="node5" href="$classplayer_1_1_player_model.html" title="This Class represents the player behaviour." alt="" coords="373,497,505,524"/>
+<area shape="rect" id="node13" href="$classgui_1_1_level_done_frame.html" title="This method is a JFrame used when the player finish a level." alt="" coords="368,587,511,613"/>
+<area shape="rect" id="node4" title=" " alt="" coords="557,282,623,309"/>
+<area shape="rect" id="node6" href="$classgame_1_1_point2_d.html" title="This Class is used to represent the position of cell in the grid." alt="" coords="425,393,531,420"/>
+<area shape="rect" id="node7" href="$classgui_1_1_panel.html" title="This Class represents the Grid Panel displayed on the screen." alt="" coords="343,171,419,197"/>
+<area shape="rect" id="node11" href="$classgui_controller_1_1_timer_main_window_controller.html" title="This Class represents the Timer which is used to update the grid content at a given rate." alt="" coords="168,275,375,316"/>
+<area shape="rect" id="node8" title=" " alt="" coords="488,81,551,108"/>
+<area shape="rect" id="node10" href="$classgame_1_1_grid.html" title="This Class represents the grid which is displayed in the Panel afterward." alt="" coords="339,81,422,108"/>
+<area shape="rect" id="node12" title=" " alt="" coords="244,171,299,197"/>
+</map>

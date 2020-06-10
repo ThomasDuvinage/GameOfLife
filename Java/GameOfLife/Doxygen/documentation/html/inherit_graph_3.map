@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,81,72,108"/>
+<area shape="rect" id="node2" href="$classgui_1_1_level_done_frame.html" title="This method is a JFrame used when the player finish a level." alt="" coords="140,5,283,32"/>
+<area shape="rect" id="node3" href="$classgui_1_1_start_game_frame.html" title="This Class is used to let the player login or create an account and play." alt="" coords="140,56,283,83"/>
+<area shape="rect" id="node4" href="$classgui_1_1_window.html" title="This Class represents the Window which pop up when you run the project" alt="" coords="166,107,257,133"/>
+<area shape="rect" id="node5" href="$classplayer_1_1_player_creation_frame.html" title=" " alt="" coords="120,157,303,184"/>
+</map>

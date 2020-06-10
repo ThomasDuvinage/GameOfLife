@@ -1,0 +1,10 @@
+<map id="player.PlayerKeyEventController" name="player.PlayerKeyEventController">
+<area shape="rect" id="node1" title="This method is used to handle the player key events." alt="" coords="27,289,237,316"/>
+<area shape="rect" id="node2" href="$classplayer_1_1_player_model.html" title="This Class represents the player behaviour." alt="" coords="13,193,145,219"/>
+<area shape="rect" id="node3" href="$classgui_1_1_window.html" title="This Class represents the Window which pop up when you run the project" alt="" coords="335,289,425,316"/>
+<area shape="rect" id="node4" title=" " alt="" coords="296,193,363,219"/>
+<area shape="rect" id="node5" href="$classgui_1_1_panel.html" title="This Class represents the Grid Panel displayed on the screen." alt="" coords="534,81,610,108"/>
+<area shape="rect" id="node7" href="$classgui_controller_1_1_timer_main_window_controller.html" title="This Class represents the Timer which is used to update the grid content at a given rate." alt="" coords="387,185,594,227"/>
+<area shape="rect" id="node6" title=" " alt="" coords="602,5,665,32"/>
+<area shape="rect" id="node8" href="$classgame_1_1_point2_d.html" title="This Class is used to represent the position of cell in the grid." alt="" coords="26,81,131,108"/>
+</map>

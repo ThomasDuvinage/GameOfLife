@@ -1,0 +1,7 @@
+<map id="guiController.StartGameRulesButtonController" name="guiController.StartGameRulesButtonController">
+<area shape="rect" id="node1" title=" " alt="" coords="5,184,200,225"/>
+<area shape="rect" id="node2" title=" " alt="" coords="29,95,134,121"/>
+<area shape="rect" id="node3" href="$classgui_1_1_start_game_frame.html" title="This Class is used to let the player login or create an account and play." alt="" coords="158,95,301,121"/>
+<area shape="rect" id="node4" title=" " alt="" coords="152,5,219,32"/>
+<area shape="rect" id="node5" title=" " alt="" coords="243,5,306,32"/>
+</map>

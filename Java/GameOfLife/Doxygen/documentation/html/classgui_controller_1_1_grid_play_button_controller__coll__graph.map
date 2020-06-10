@@ -1,0 +1,13 @@
+<map id="guiController.GridPlayButtonController" name="guiController.GridPlayButtonController">
+<area shape="rect" id="node1" title="This Class is the play button controller." alt="" coords="1312,194,1499,235"/>
+<area shape="rect" id="node2" title=" " alt="" coords="679,260,784,287"/>
+<area shape="rect" id="node11" href="$classgui_controller_1_1_grid_pause_button_controller.html" title="This Class is the pause button controller." alt="" coords="933,303,1131,345"/>
+<area shape="rect" id="node3" href="$classplayer_1_1_player_model.html" title="This Class represents the player behaviour." alt="" coords="966,69,1098,96"/>
+<area shape="rect" id="node4" href="$classgui_1_1_window.html" title="This Class represents the Window which pop up when you run the project" alt="" coords="686,96,777,123"/>
+<area shape="rect" id="node5" title=" " alt="" coords="405,143,471,169"/>
+<area shape="rect" id="node6" href="$classgui_1_1_panel.html" title="This Class represents the Grid Panel displayed on the screen." alt="" coords="117,81,193,108"/>
+<area shape="rect" id="node8" href="$classgui_controller_1_1_timer_main_window_controller.html" title="This Class represents the Timer which is used to update the grid content at a given rate." alt="" coords="335,194,541,235"/>
+<area shape="rect" id="node7" title=" " alt="" coords="5,56,68,83"/>
+<area shape="rect" id="node9" title=" " alt="" coords="128,277,183,304"/>
+<area shape="rect" id="node10" href="$classgame_1_1_point2_d.html" title="This Class is used to represent the position of cell in the grid." alt="" coords="679,5,784,32"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="gui.StartGameFrame.StartGameFrame" name="gui.StartGameFrame.StartGameFrame">
+<area shape="rect" id="node1" title="Constructor." alt="" coords="5,27,180,69"/>
+<area shape="rect" id="node2" href="$classgui_1_1_start_game_frame.html#a9d330771965478bbb5b9901eea4e2f9a" title="This method is used to initialize the buttons." alt="" coords="228,5,431,32"/>
+<area shape="rect" id="node3" href="$classgui_1_1_start_game_frame.html#a849341bdcf703edea0a936f71c638f23" title="This method is used to set ActionListener to the buttons." alt="" coords="228,57,431,98"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="game.Grid.Grid" name="game.Grid.Grid">
+<area shape="rect" id="node1" title="Grid constructor." alt="" coords="5,31,116,57"/>
+<area shape="rect" id="node2" href="$classgame_1_1_grid.html#a4a2423a54c0fd3e4339df7043482d781" title="fill the grid with Cells" alt="" coords="175,5,348,32"/>
+<area shape="rect" id="node4" href="$classgame_1_1_grid.html#ac81d2e447aac344d72ba3d828a462383" title="Set the number of cells equals to size/cellWidth." alt="" coords="164,56,359,83"/>
+<area shape="rect" id="node3" href="$classgame_1_1_cell.html#a8269185d7c775ec7b17fdd60ac48c40b" title="set state to originState" alt="" coords="407,5,541,32"/>
+</map>

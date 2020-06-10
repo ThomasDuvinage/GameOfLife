@@ -1,0 +1,8 @@
+<map id="player.PlayerConnectionController.actionPerformed" name="player.PlayerConnectionController.actionPerformed">
+<area shape="rect" id="node1" title=" " alt="" coords="5,23,263,65"/>
+<area shape="rect" id="node2" href="$classplayer_1_1_player_connection_controller.html#a838c525155a29f581fbc52c868567f54" title="This method is used to check if the player already exists in the JSON file and update the label to le..." alt="" coords="311,23,568,65"/>
+<area shape="rect" id="node3" href="$classplayer_1_1_player_model.html#acdda75745bf0a748a1cabc7488357632" title=" " alt="" coords="616,5,805,32"/>
+<area shape="rect" id="node4" href="$classgui_1_1_window.html#ab31f5c1c18d25154049989eb826a3ec6" title="This method is used to instantiate the playerModel." alt="" coords="619,56,802,83"/>
+<area shape="rect" id="node5" href="$classgui_1_1_window.html#aafcf78b3c2945fc6362e4fb20354d2cb" title="This method is used to randomly add Planet(s) to the grid." alt="" coords="853,31,1041,57"/>
+<area shape="rect" id="node6" href="$classplayer_1_1_player_model.html#ac930a42fb4832f7debbf65c74eaabdf4" title="set view" alt="" coords="856,81,1039,108"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="player.PlayerConnectionController" name="player.PlayerConnectionController">
+<area shape="rect" id="node1" title="This Class is used to connect the player by reading the JSON file." alt="" coords="456,379,675,405"/>
+<area shape="rect" id="node2" title=" " alt="" coords="201,289,306,316"/>
+<area shape="rect" id="node3" href="$classplayer_1_1_player_model.html" title="This Class represents the player behaviour." alt="" coords="419,193,551,219"/>
+<area shape="rect" id="node4" href="$classgui_1_1_window.html" title="This Class represents the Window which pop up when you run the project" alt="" coords="331,289,421,316"/>
+<area shape="rect" id="node10" href="$classplayer_1_1_player_creation_frame.html" title=" " alt="" coords="630,289,813,316"/>
+<area shape="rect" id="node5" title=" " alt="" coords="603,193,669,219"/>
+<area shape="rect" id="node6" href="$classgui_1_1_panel.html" title="This Class represents the Grid Panel displayed on the screen." alt="" coords="153,81,229,108"/>
+<area shape="rect" id="node8" href="$classgui_controller_1_1_timer_main_window_controller.html" title="This Class represents the Timer which is used to update the grid content at a given rate." alt="" coords="87,185,294,227"/>
+<area shape="rect" id="node7" title=" " alt="" coords="301,5,363,32"/>
+<area shape="rect" id="node9" href="$classgame_1_1_point2_d.html" title="This Class is used to represent the position of cell in the grid." alt="" coords="433,81,538,108"/>
+</map>

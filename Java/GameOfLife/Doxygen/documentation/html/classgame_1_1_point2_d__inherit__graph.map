@@ -1,0 +1,4 @@
+<map id="game.Point2D" name="game.Point2D">
+<area shape="rect" id="node1" title="This Class is used to represent the position of cell in the grid." alt="" coords="5,5,111,32"/>
+<area shape="rect" id="node2" href="$classgame_1_1_cell.html" title="This class represents the cell composing the grid." alt="" coords="17,80,99,107"/>
+</map>

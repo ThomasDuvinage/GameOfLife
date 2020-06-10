@@ -1,0 +1,11 @@
+<map id="player.PlayerBackButtonController" name="player.PlayerBackButtonController">
+<area shape="rect" id="node1" title="This Class is the player back button." alt="" coords="298,392,520,419"/>
+<area shape="rect" id="node2" title=" " alt="" coords="188,303,294,329"/>
+<area shape="rect" id="node3" href="$classgui_1_1_start_game_frame.html" title="This Class is used to let the player login or create an account and play." alt="" coords="467,161,610,188"/>
+<area shape="rect" id="node6" href="$classplayer_1_1_player_creation_frame.html" title=" " alt="" coords="318,303,500,329"/>
+<area shape="rect" id="node4" title=" " alt="" coords="558,5,625,32"/>
+<area shape="rect" id="node8" href="$classgui_1_1_window.html" title="This Class represents the Window which pop up when you run the project" alt="" coords="281,109,372,136"/>
+<area shape="rect" id="node5" title=" " alt="" coords="258,5,320,32"/>
+<area shape="rect" id="node7" href="$classplayer_1_1_player_model.html" title="This Class represents the player behaviour." alt="" coords="230,213,362,240"/>
+<area shape="rect" id="node9" href="$classgame_1_1_point2_d.html" title="This Class is used to represent the position of cell in the grid." alt="" coords="138,109,243,136"/>
+</map>

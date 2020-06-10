@@ -1,0 +1,4 @@
+<map id="game.Grid.setDefaultCellAt" name="game.Grid.setDefaultCellAt">
+<area shape="rect" id="node1" title="This method sets the pointed cell to default cell." alt="" coords="5,5,188,32"/>
+<area shape="rect" id="node2" href="$classgame_1_1_cell.html#a474de6802ebd74f28c122ed86d58beb3" title="Set cell state to default state." alt="" coords="236,5,404,32"/>
+</map>

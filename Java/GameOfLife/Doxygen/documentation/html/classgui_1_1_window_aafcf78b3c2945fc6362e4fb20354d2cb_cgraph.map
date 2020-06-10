@@ -1,0 +1,6 @@
+<map id="gui.Window.addPlanetToGrid" name="gui.Window.addPlanetToGrid">
+<area shape="rect" id="node1" title="This method is used to randomly add Planet(s) to the grid." alt="" coords="5,42,193,69"/>
+<area shape="rect" id="node2" href="$classgame_1_1_grid.html#a72feaab2e134c8b0c1057a5f0ace9448" title="This method is used to addPlanet to the grid depending on the level of the player." alt="" coords="243,5,425,47"/>
+<area shape="rect" id="node4" href="$classplayer_1_1_player_model.html#a043122bb19863e95d65cd4ea8e6c6015" title="get the player level" alt="" coords="241,71,427,98"/>
+<area shape="rect" id="node3" href="$classgame_1_1_cell.html#a0d703b338d1d8eb33e9afcffe4927848" title="set cell state to planet state" alt="" coords="475,13,645,39"/>
+</map>

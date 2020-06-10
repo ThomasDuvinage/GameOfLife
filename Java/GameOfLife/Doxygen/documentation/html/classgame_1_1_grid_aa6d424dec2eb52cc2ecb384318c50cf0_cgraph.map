@@ -1,0 +1,6 @@
+<map id="game.Grid.setPlayerCell" name="game.Grid.setPlayerCell">
+<area shape="rect" id="node1" title=" " alt="" coords="5,56,169,83"/>
+<area shape="rect" id="node2" href="$classgame_1_1_cell.html#aa842ad577d902e537e4ffe49165e4624" title=" " alt="" coords="234,5,369,32"/>
+<area shape="rect" id="node3" href="$classgame_1_1_cell.html#a474de6802ebd74f28c122ed86d58beb3" title="Set cell state to default state." alt="" coords="217,56,385,83"/>
+<area shape="rect" id="node4" href="$classgame_1_1_cell.html#a29b214997f26c6a8a7b716d7caea7501" title="set cell state to player state" alt="" coords="220,107,383,133"/>
+</map>

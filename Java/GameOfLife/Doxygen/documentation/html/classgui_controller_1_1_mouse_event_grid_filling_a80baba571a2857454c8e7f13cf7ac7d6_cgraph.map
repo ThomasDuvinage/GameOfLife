@@ -1,0 +1,4 @@
+<map id="guiController.MouseEventGridFilling.getMousePosInGrid" name="guiController.MouseEventGridFilling.getMousePosInGrid">
+<area shape="rect" id="node1" title="Get the mouse position in the grid displayed on the screen." alt="" coords="5,5,204,47"/>
+<area shape="rect" id="node2" href="$classgame_1_1_point2_d.html#a5234a2ab7134e1cfd39d0f6d276cdfb8" title="This method is used to know if the point is outside a given bounding box." alt="" coords="252,13,429,39"/>
+</map>

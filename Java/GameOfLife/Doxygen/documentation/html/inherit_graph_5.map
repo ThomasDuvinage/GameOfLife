@@ -1,0 +1,13 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,307,111,334"/>
+<area shape="rect" id="node2" href="$classgui_controller_1_1_back_menu_button_controller.html" title="This Class is used to back to the strating page." alt="" coords="170,5,369,47"/>
+<area shape="rect" id="node3" href="$classgui_controller_1_1_grid_pause_button_controller.html" title="This Class is the pause button controller." alt="" coords="171,71,368,112"/>
+<area shape="rect" id="node4" href="$classgui_controller_1_1_grid_play_button_controller.html" title="This Class is the play button controller." alt="" coords="176,136,363,177"/>
+<area shape="rect" id="node5" href="$classgui_controller_1_1_next_level_button_controller.html" title="This Class is used to move to the next level." alt="" coords="172,201,367,243"/>
+<area shape="rect" id="node6" href="$classgui_controller_1_1_start_game_exit_button_controller.html" title="This method is used to exit the game." alt="" coords="177,267,361,308"/>
+<area shape="rect" id="node7" href="$classgui_controller_1_1_start_game_play_button_controller.html" title="This method is used to create an account." alt="" coords="176,332,363,373"/>
+<area shape="rect" id="node8" href="$classgui_controller_1_1_start_game_rules_button_controller.html" title=" " alt="" coords="172,397,367,439"/>
+<area shape="rect" id="node9" href="$classplayer_1_1_player_back_button_controller.html" title="This Class is the player back button." alt="" coords="159,463,380,490"/>
+<area shape="rect" id="node10" href="$classplayer_1_1_player_connection_controller.html" title="This Class is used to connect the player by reading the JSON file." alt="" coords="160,514,379,541"/>
+<area shape="rect" id="node11" href="$classplayer_1_1_player_controller.html" title=" " alt="" coords="193,565,346,591"/>
+</map>

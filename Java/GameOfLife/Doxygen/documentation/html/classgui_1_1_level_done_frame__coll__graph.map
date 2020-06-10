@@ -1,0 +1,10 @@
+<map id="gui.LevelDoneFrame" name="gui.LevelDoneFrame">
+<area shape="rect" id="node1" title="This method is a JFrame used when the player finish a level." alt="" coords="99,497,242,524"/>
+<area shape="rect" id="node2" title=" " alt="" coords="85,193,152,219"/>
+<area shape="rect" id="node4" href="$classgui_1_1_window.html" title="This Class represents the Window which pop up when you run the project" alt="" coords="323,304,413,331"/>
+<area shape="rect" id="node3" href="$classplayer_1_1_player_model.html" title="This Class represents the player behaviour." alt="" coords="197,408,329,435"/>
+<area shape="rect" id="node5" href="$classgui_1_1_panel.html" title="This Class represents the Grid Panel displayed on the screen." alt="" coords="255,81,331,108"/>
+<area shape="rect" id="node7" href="$classgui_controller_1_1_timer_main_window_controller.html" title="This Class represents the Timer which is used to update the grid content at a given rate." alt="" coords="283,185,490,227"/>
+<area shape="rect" id="node6" title=" " alt="" coords="262,5,325,32"/>
+<area shape="rect" id="node8" href="$classgame_1_1_point2_d.html" title="This Class is used to represent the position of cell in the grid." alt="" coords="161,304,266,331"/>
+</map>
