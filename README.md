@@ -4,3 +4,13 @@ This project is a modified Game of Life. This game is a one-player game. The goa
 
 If you want to have the full documentation concerning the project, you have to clone the repo and then navigate to [Java/GameOfLife/Doxygen/documentation/html/index.html]
 
+
+## Launch the game
+
+```
+$ java -jar game.jar
+```
+
+# Explanations
+
+All the explanations are avaible in report.pdf
